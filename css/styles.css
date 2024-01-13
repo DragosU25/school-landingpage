@@ -478,6 +478,9 @@ img {
   border-radius: 50px;
   padding: 8px;
 }
+.opportunities-image {
+  border-radius: 30px;
+}
 
 .opportunities-image-second-container-tittle {
   color: var(--Gray-1, #333);
